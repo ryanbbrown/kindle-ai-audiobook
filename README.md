@@ -2,6 +2,8 @@
 
 An iOS app that uses AI to generate on-demand audiobook snippets for Kindle.
 
+*Read the [blog post](https://blog.ryanbbrown.com/p/i-reverse-engineered-kindle-to-build) for a detailed writeup on the technical challenges and how it works.*
+
 https://github.com/user-attachments/assets/de0f5640-5bfc-4f0e-bfa0-ee382e467fc2
 
 ## 0.0 Overview
